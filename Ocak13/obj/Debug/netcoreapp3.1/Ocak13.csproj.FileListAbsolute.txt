@@ -1,0 +1,13 @@
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.exe
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.deps.json
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.runtimeconfig.json
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.runtimeconfig.dev.json
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.dll
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.pdb
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.csprojAssemblyReference.cache
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.AssemblyInfoInputs.cache
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.AssemblyInfo.cs
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.csproj.CoreCompileInputs.cache
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.dll
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.pdb
+F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.genruntimeconfig.cache
