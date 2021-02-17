@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Saideisilay\\.nuget\\packages\\": {},
+    "C:\\Users\\berkayana\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projelerim\\Learning\\KampOdevleri\\KampOdevleri\\Ocak13\\Ocak13.csproj",
+      "projectUniqueName": "E:\\STUDY-WORKING\\EnginHoca\\EnginHoca\\Ocak13\\Ocak13.csproj",
       "projectName": "Ocak13",
-      "projectPath": "F:\\Projelerim\\Learning\\KampOdevleri\\KampOdevleri\\Ocak13\\Ocak13.csproj",
-      "packagesPath": "C:\\Users\\Saideisilay\\.nuget\\packages\\",
-      "outputPath": "F:\\Projelerim\\Learning\\KampOdevleri\\KampOdevleri\\Ocak13\\obj\\",
+      "projectPath": "E:\\STUDY-WORKING\\EnginHoca\\EnginHoca\\Ocak13\\Ocak13.csproj",
+      "packagesPath": "C:\\Users\\berkayana\\.nuget\\packages\\",
+      "outputPath": "E:\\STUDY-WORKING\\EnginHoca\\EnginHoca\\Ocak13\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Saideisilay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\berkayana\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

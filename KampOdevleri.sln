@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocak13", "Ocak13\Ocak13.csproj", "{70FD73A8-DEF9-4D25-B8C6-3CA1CBD0907A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ocak13", "Ocak13\Ocak13.csproj", "{70FD73A8-DEF9-4D25-B8C6-3CA1CBD0907A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocak16", "Ocak16\Ocak16.csproj", "{DBDC1AB9-B010-4BF4-81C6-C45FD535AFBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{70FD73A8-DEF9-4D25-B8C6-3CA1CBD0907A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70FD73A8-DEF9-4D25-B8C6-3CA1CBD0907A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70FD73A8-DEF9-4D25-B8C6-3CA1CBD0907A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDC1AB9-B010-4BF4-81C6-C45FD535AFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDC1AB9-B010-4BF4-81C6-C45FD535AFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDC1AB9-B010-4BF4-81C6-C45FD535AFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDC1AB9-B010-4BF4-81C6-C45FD535AFBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

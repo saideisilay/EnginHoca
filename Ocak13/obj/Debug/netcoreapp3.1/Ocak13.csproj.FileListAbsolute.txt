@@ -11,3 +11,16 @@ F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\
 F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.dll
 F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.pdb
 F:\Projelerim\Learning\KampOdevleri\KampOdevleri\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.genruntimeconfig.cache
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.exe
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.deps.json
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.runtimeconfig.json
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.runtimeconfig.dev.json
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.dll
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\bin\Debug\netcoreapp3.1\Ocak13.pdb
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.csprojAssemblyReference.cache
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.AssemblyInfoInputs.cache
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.AssemblyInfo.cs
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.csproj.CoreCompileInputs.cache
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.dll
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.pdb
+E:\STUDY-WORKING\EnginHoca\EnginHoca\Ocak13\obj\Debug\netcoreapp3.1\Ocak13.genruntimeconfig.cache
